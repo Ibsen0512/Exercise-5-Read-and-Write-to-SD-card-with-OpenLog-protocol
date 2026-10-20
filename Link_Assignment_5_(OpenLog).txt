@@ -1,0 +1,10 @@
+Using and OpenLog to Record Sensor Data from an Arduino Nano
+Watch from beginning (as inspiration):
+https://www.youtube.com/watch?v=rajRICUVVtk
+
+AND 
+how does UART work??? (explained clearly)
+Watch from beginning (for basic UART):
+https://www.youtube.com/watch?v=V6m2skVlsQI
+
+

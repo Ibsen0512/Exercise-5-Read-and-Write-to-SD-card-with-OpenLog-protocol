@@ -1,0 +1,10 @@
+SD CARD using SPI in STM32 || Cube-IDE || File handling || uart
+Watch from beginning (as inspiration):
+https://www.youtube.com/watch?v=spVIZO-jbxE
+
+AND/OR
+Micro-SD SPI module with the STM32 NUCLEO-F746ZG micro-controller
+Watch from beginning (as inspiration):
+https://www.youtube.com/watch?v=oTaUw2CeEjw
+
+
